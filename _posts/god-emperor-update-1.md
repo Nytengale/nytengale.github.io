@@ -2,13 +2,16 @@
 title: Cult of the God Emperor: The story so far
 date: 2025-12-15
 categories: [TOP_CATEGORY, SUB_CATEGORY]
-auther: <fe-eze>
-tags: [TAG]     # TAG names should always be lowercase
+author: <fe-eze>
+tags: [devlog]     # TAG names should always be lowercase
+
 ---
+<a name="progress-link"></a>
 
 # Design Philosophy
 ## Harry Beck
 
+[Progress](#progress-link)
 # Game Screenshots and UI Design
 Some screens have been developed (as a rough first draft) in engine (UNITY 6) to begin to lock down the look and feel of the game. Others have been designed in figma.
 
